@@ -5,3 +5,4 @@ from .mlsd import MLSDdetector
 from .hed import HEDdetector
 from .canny import CannyDetector
 from .midas import MidasDetector
+from .uniformer import UniformerDetector
